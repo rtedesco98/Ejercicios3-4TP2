@@ -9,6 +9,13 @@ import main.java.RTedesco.RecursoCualquierObjeto;
 import main.java.RTedesco.Objeto;
 import main.java.RTedesco.UCPQueue;
 
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.LinkedList;
+import java.util.PriorityQueue;
+import java.util.Queue;
+import java.util.function.Predicate;
+
 public class TestUnitarioCOLA {
     @Test
     public void CreandoUnaCola(){
